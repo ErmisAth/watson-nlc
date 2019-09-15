@@ -3,7 +3,7 @@
 java project for training querying deleting and listing available classifiers under a Watson Natural Language Classifier service
 
 - Train: The user must provide 5 or 6 arguments. 5 for api-key authentication and 6 for username-password authentication. 
-	api-key authentication
+	- api-key authentication
 		- 1st argument is the word "train".
 		- 2nd argument is the url for the Watson service.
 		- 3rd argument is the apikey for the Watson service.
